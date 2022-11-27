@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1606469045 source:/home/damorgal/Documents/_MASTER/Programacion/Tarea14/interfazG/main.cpp
+	<iostream>
+	<cmath>
+	<cairo/cairo.h>
+	<cairo/cairo-xlib.h>
+	<X11/Xlib.h>
+	<X11/Xatom.h>
+	<X11/Xutil.h>
+
